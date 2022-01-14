@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&count_private=true)
+![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&count_private=true&show_icons=true&theme=dracula)
 
 
 
