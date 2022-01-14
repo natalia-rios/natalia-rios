@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-rios)](https://github.com/natalia-rios/github-readme-stats)
+
 ![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&show_icons=true&theme=dracula)
 
 <!--
