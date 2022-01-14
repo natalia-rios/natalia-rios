@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&show_icons=true&theme=dracula)
+![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **natalia-rios/natalia-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
