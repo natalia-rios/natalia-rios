@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&show_icons=true&theme=dracula)
+<center>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-rios&hide=html&layout=compact&theme=dracula" />
+</center>
+
+<center>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-riosfs&theme=dracula"/>
+</center>
 
 <!--
 **natalia-rios/natalia-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
