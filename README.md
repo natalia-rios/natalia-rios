@@ -5,7 +5,7 @@
 </center>
 
 <center>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-rios&theme=dark"/>
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-rios&theme=dark" />
 </center>
 
 
