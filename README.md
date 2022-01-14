@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<center>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-rios&hide=html&layout=compact&theme=dark" />
-</center>
+![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalia-rios&count_private=true)
 
-<center>
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=natalia-rios&theme=dark" />
-</center>
 
 
 <!--
