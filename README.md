@@ -4,7 +4,7 @@
 
 ### About me
 
-  - 🔭 Backend developer intern at <a target="_blank" href="https://www.pontotel.com.br///">Pontotel</a>
+  - 🔭 Backend developer at <a target="_blank" href="https://www.pontotel.com.br///">Pontotel</a>
 
 ### Stats
 
