@@ -2,7 +2,8 @@
 
 ### About me
 
-  - 🔭 Backend developer at Wex Tech Brazil.
+  - Backend developer at Wex Tech Brazil.
+  - Currently learning .NET and Go.
 
 ### Stats
 
