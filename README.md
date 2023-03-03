@@ -1,10 +1,8 @@
 # Natália Rios de Sousa
 
-<img style="margin: 0 auto" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" height="200">
-
 ### About me
 
-  - 🔭 Backend developer at <a target="_blank" href="https://www.pontotel.com.br///">Pontotel</a>
+  - 🔭 Backend developer at Wex Tech Brazil.
 
 ### Stats
 
